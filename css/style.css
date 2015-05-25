@@ -1,0 +1,33 @@
+body{
+  border: 20px black;
+}
+.Lesson1{
+  background-color: #00B85C;
+  border: 5px solid black;
+  width: 30%;
+}
+b{
+ color: #006600;
+}
+.Note{
+  background-color: #66CCFF ;
+  border: 5px solid black;
+  padding:10px
+}
+.Lesson2{
+  background-color:#AD33FF;
+  border: 5px solid black;
+  width: 30%;
+}
+.Lesson3{
+  background-color: #FF0000;
+  border: 5px solid black;
+  width: 30%;
+}
+
+
+
+
+
+
+
